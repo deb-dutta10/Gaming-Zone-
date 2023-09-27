@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.con {
+    margin: auto;
+    margin-top: 10%;
+    width: 80%;
+    border-radius: 20px;
+    padding: 30px;
+    background: #318CE7;
+    color: white;
+    text-align: center; /* Center text horizontally */
+}
+
+h1 {
+    margin: 30px 0; /* Adjust margin top and bottom */
+    text-decoration: underline;
+}
